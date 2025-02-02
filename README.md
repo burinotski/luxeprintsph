@@ -18,18 +18,19 @@ Hey Karl! You're doing great—keep up the awesome work. Don't worry if you're j
 ### Steps to Get Started:
 
 1. **Clone the repository**:
+git clone https://github.com/burinotski/luxeprintsph.git
 
 2. **Install dependencies**:  
-Navigate to the project directory in your terminal and run the following command to install the required libraries and packages:
+Navigate to the project directory in your terminal and run the following command to install the required libraries and packages: npm install
 
 3. **Start the development server**:  
-After the installation is complete, run the following to start the local server:
+After the installation is complete, run the following to start the local server: 
 
 This will open the application in your browser at `http://localhost:3000`.
 (Make sure we're on the same network! Contact me!!)
 
 4. **Running tests**:  
-If you need to run tests during development, use this command:
+If you need to run tests during development, use this command: npm test
 
 5. **Build for production**:  
 To create a production-ready build, use: npm build
